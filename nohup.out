@@ -1,5 +1,0 @@
-[0.339] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
-[0.414] [PARSE ERROR] Unknown CSI code: 'm' with start_modifier: '␀' and end_modifier: ',' and parameters: '38, 5, 1'
-[0.414] [PARSE ERROR] Unknown CSI code: 'm' with start_modifier: '␀' and end_modifier: ',' and parameters: '38, 5, 1'
-[0.414] [PARSE ERROR] Unknown CSI code: 'm' with start_modifier: '␀' and end_modifier: ',' and parameters: '38, 5, 1'
-[0.414] [PARSE ERROR] Unknown CSI code: 'm' with start_modifier: '␀' and end_modifier: ',' and parameters: '38, 5, 1'
